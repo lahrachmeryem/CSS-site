@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #40514E
+    ;
+    height: 100px;
+    
+    
+}
+p{
+    line-height: 2;
+}
+h1{
+
+ margin: 50px aut 0 auto; 
+ font-family: 'Sacramento', cursive;  
+ font-size: 5.625rem;
+ color: #66BFBF;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+   
+}
+a{
+    color:#11999E;
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+hr{
+    border-style:none;
+    width: 4%;
+   border-top-style: dotted;
+   border-color: #EAF6F6;
+   border-width: 6px ;
+   font-weight: solid;
+   margin: 100px auto  ; 
+}
+.top-container{
+    background-color: #e4f9f5;
+    margin-left: 0px;
+    padding-top: 100px;
+    position: relative;
+}
+.middle-container{
+    text-align: center;
+    margin: 100px 0px;
+   
+}
+.bottom-container{
+}
+.top-cloud{
+    position: relative;
+    left: 250px;
+   
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    
+}
+.image{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+
+}
+.skill-image1{
+    height: 200px;
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    padding: 30px;
+}
+.skill-image2{
+    height: 200px;
+    width: 25%;
+    border-radius: 50%;
+    float: right;
+    padding: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin :100px auto 100px auto;
+    text-align: left;
+  
+}
+.description{
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.bottom-container{
+    
+    background-color: #66BFBF    ;
+    padding: 50px 0 20px;
+    margin-bottom: 0px;
+   
+   
+}
+.contact-msg{
+width: 40%;
+margin: 40px auto 60px;
+}
+.btn {
+	background-color:#11cdd4;
+	border-radius:28px;
+	border:1px solid #11cdd4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+    margin-bottom: 50px;
+}
+.btn {
+	background-color:#11cdd4;
+}
+.btn{
+	position:relative;
+	top:1px;
+}
